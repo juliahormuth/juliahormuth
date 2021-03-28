@@ -1,4 +1,4 @@
-# Hey, I'm Julia Hormuth!
+# Hey, I'm Julia Hormuth! 🤖
 
 I'm a **development** student at the University of Mogi das Cruzes.
 
