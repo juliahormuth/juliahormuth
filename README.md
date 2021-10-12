@@ -1,4 +1,4 @@
-## Welcome
+## Welcome :smiley:
 #### I am a programming student at the University of Mogi das Cruzes. Focused on backend development with technologies like NodeJs 
 
 <p align="center">
