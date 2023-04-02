@@ -1,4 +1,4 @@
-# Welcome :smile:
+# Welcome :smiley:
 
 ## I'm Julia Hormuth :brazil:/:de:
 
