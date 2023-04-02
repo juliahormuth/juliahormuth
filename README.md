@@ -2,7 +2,7 @@
 
 ## I'm Julia Hormuth :brazil:/:de:
 
-#### I'm programmer focused on backend development :computer:
+#### I'm a software developer focused on backend development :computer:
 
 I have worked with some technologies from NodeJs ecosystems, Typescript, NestJs, microservices and more.
 
