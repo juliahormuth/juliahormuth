@@ -1,6 +1,6 @@
 # Welcome :smiley:
 
-## I'm Julia Hormuth :brazil:/:de:.
+## I'm Julia Hormuth :brazil:/:de:
 
 #### I'm a software developer focused on backend development. :computer:
 
