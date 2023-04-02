@@ -6,7 +6,7 @@
 
 I have worked with some technologies from NodeJs ecosystems, Typescript, NestJs, microservices and more.
 
-I'm curious about technologies like Java and also mobile development.
+I'm also curious about technologies like Java and also mobile development.
 
 Gamer, language student and calisthenics practitioner on my free time :books: :video_game:
 
