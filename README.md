@@ -4,9 +4,9 @@
 
 #### I'm a software developer focused on backend development. :computer:
 
-I have worked with some technologies from NodeJs ecosystems, Typescript, NestJs, microservices and more.
+I'm currently learning and developing with Java and Spring Boot.
 
-I'm also curious about technologies like Spring Boot and also mobile development.
+I have worked with some technologies from NodeJs ecosystems, Typescript, NestJs, microservices and more.
 
 Gamer, language student and calisthenics practitioner on my free time. :books: :video_game:
 
