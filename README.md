@@ -3,10 +3,11 @@
 ## I'm Julia Hormuth :brazil:/:de:
 
 #### I'm a software developer focused on backend development. :computer:
+My principal stack at moment is Java and Spring Boot Framework.
 
-I'm currently learning and developing with Java and Spring Boot.
+I'm currently learning and developing with React and NextJs.
 
-I have worked with some technologies from NodeJs ecosystems, Typescript, NestJs, microservices and more.
+I have worked with some technologies from NodeJs ecosystems, Typescript, NestJs, graphQL, microservices and more.
 
 Gamer, language student and calisthenics practitioner on my free time. :books: :video_game:
 
